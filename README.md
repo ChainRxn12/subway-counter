@@ -17,6 +17,10 @@
 * [License](#License)
   
 * [Author](#Author)
+
+* [Screenshot](#Screenshot)
+
+* [Deployed Application](#Deployed-application)
   
 ## Installation
   
@@ -47,3 +51,13 @@ Billy Dorman
 Location: Live Oak, TX
   
 [GitHub](https://github.com/ChainRxn12)
+
+## Screenshot
+
+![People Counter](https://user-images.githubusercontent.com/78969397/124040809-40949580-d9cb-11eb-8779-8d14c61f0636.png)
+
+
+
+## Deployed Application
+
+[Subway Counter](https://chainrxn12.github.io/subway-counter/)
